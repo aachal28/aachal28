@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codestation1" target="blank"><img src="https://img.shields.io/twitter/follow/codestation1?logo=twitter&style=for-the-badge" alt="codestation1" /></a> </p>
 
-- 🔭 I’m currently a **Technical Content Writer**
+- 🔭 I’m currently Work as a **Technical Content Writer**
 
 - 🌱 I’m currently learning **Java & DSA**
 
