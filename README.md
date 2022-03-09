@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
 
 
-- 🔭 I’m currently Work as a **Technical Content Writer**
 
 - 🌱 I’m currently learning **Java & DSA**
 
