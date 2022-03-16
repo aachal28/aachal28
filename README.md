@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java & DSA**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source Projects**
 
 - 💬 Ask me about **Web development**
 
