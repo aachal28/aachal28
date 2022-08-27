@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/aachal-pardeshi-258257225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40" /></a>
 <a href="https://instagram.com/code_station_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_station_" height="30" width="40" /></a>
 <a href="https://medium.com/achalpardeshi159_44713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="achalpardeshi159_44713" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code station" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code station" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOew9K0-BxFKHHRyEMeoFxg/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code station" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
