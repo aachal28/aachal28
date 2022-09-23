@@ -11,7 +11,7 @@
 
 - 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
 
-- 🏁 I'm currently doing **100 Days of code** See my journey [here](https://github.com/aachal28/100dayofcode)
+- 🏁 I'm currently doing **100 Days of code Challenge** See my journey [here](https://github.com/aachal28/100dayofcode)
 
 - 💬 Ask me about **Web development**
 
