@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java & DSA**
+- 🌱 I’m currently learning **Python & DSA**
 
 - 👯 I’m looking to collaborate on **open source Projects**
 
