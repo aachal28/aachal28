@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aachal!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello World👋!</h1>
+<h3 align="center">Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
 
-
+<h3>🧐 Some Things About Me</h3>
 
 - 🌱 I’m currently learning **Python & DSA**
-
 - 👯 I’m looking to collaborate on **open source Projects**
-
 - 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
-
-- 🏁 I'm currently doing **100 Days of code Challenge** See my journey [here](https://github.com/aachal28/100dayofcode)
-
+- 🏁 I'm currently doing **100 Days of code Challenge** See my journey [Here](https://github.com/aachal28/100dayofcode)
+- ✍️Technical Blogger at [Hashnode](https://aachal28.hashnode.dev/)
 - 💬 Ask me about **Web development**
-
 - 🏆 2022 Goals: Contribute more to Open Source Projects.
-
 - 📫 How to reach me **achalpardeshi159@gmail.com**
-
 - ⚡ Fun fact ** Mandala Artist🎨. INTJ. **
 
 
