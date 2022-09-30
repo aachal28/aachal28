@@ -5,11 +5,9 @@
 
 <h3>🧐 Some Things About Me</h3>
 
-- 🌱 I’m currently learning **Python & UX Design**
-- 👯 I’m looking to collaborate on **open source Projects**
 - 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
+- 🌱 I’m currently learning **Python & UX Design**
 - 🏁 I'm currently doing **100 Days of code Challenge** See my journey [Here](https://github.com/aachal28/100dayofcode)
-- ✍️Technical Blogger at [Hashnode](https://aachal28.hashnode.dev/)
 - 💬 Ask me about **Web development**
 - 🏆 2022 Goals: Contribute more to Open Source Projects.
 - 📫 How to reach me **achalpardeshi159@gmail.com**
