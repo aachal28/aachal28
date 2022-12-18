@@ -35,12 +35,16 @@
 
 
 </details>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aachal28&theme=dark&show_icons=true"/>
+  </div>
 <br>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=000000&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
 <br/>
+ 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
