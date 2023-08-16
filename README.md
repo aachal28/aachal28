@@ -49,7 +49,7 @@
 
 ### 🎧 What I'm Listening to! 🎧
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&redirect=true)">
 <br>
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
