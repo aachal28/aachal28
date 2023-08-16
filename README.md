@@ -41,12 +41,14 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
 <br>
-</div><div align="center">
-### 🎧 What I'm Listening to! 🎧
+</div>
 <br>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=aachal28&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 
+### 🎧 What I'm Listening to! 🎧
 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+
+<br>
 
 </details>
 
