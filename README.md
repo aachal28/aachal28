@@ -40,9 +40,14 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
-<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
- 
+<br>
+</div><div align="center">
+### 🎧 What I'm Listening to! 🎧
+<br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=aachal28&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+
+
+
 </details>
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
