@@ -10,7 +10,7 @@
 - 💬 Ask me about **Web development**
 - 🏆 2023 Goal: Contribute more to Open Source Projects.
 - 📫 How to reach me **achalpardeshi159@gmail.com**
-- ⚡ Fun fact ** Mandala Artist🎨, INTJ. **
+- ⚡ Fun fact ** INTJ. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
