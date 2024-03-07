@@ -1,16 +1,13 @@
 <h1 align="center">Hello World👋!</h1> 
 <h3 align="center">Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
-
 <h3>🧐 Some Things About Me</h3>
 
 - 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA & React**
 - 💬 Ask me about **Web development**
-- 🏆 2023 Goal: Contribute more to Open Source Projects.
 - 📫 How to reach me **achalpardeshi159@gmail.com**
-- ⚡ Fun fact ** INTJ. **
+- ⚡ Fun fact **INTJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
