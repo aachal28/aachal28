@@ -1,5 +1,4 @@
-<h1 align="center">Hello World👋!</h1> 
-<h3 align="center">Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.</h3> 
+<h3 align="left">Hi👋, I'm Aachal.</h3> 
 
 <h3>🧐 Some Things About Me</h3>
 
