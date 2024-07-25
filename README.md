@@ -84,4 +84,4 @@
 
 ## GitHub Stats 📊
 
-![Aachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aachal28&theme=dark&show_icons=true) ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aachal28&background=0e0e0e&hide_border=true)
+![Aachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aachal28&theme=white&show_icons=true) ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aachal28&background=ffffff&hide_border=true)
