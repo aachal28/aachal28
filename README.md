@@ -27,32 +27,14 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </strong>
 </summary>
 <br>
-  
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aachal28&theme=dark&show_icons=true"/>
-  </div>
-<br>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
-<br>
+ <div align = left> 
+   
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aachal28&theme=dark&show_icons=true"/>
+   
+    
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
 </div>
-<br>
-
 </details>
-<br>
-
-### 🎧 What I'm Listening to! 🎧
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&redirect=true)">
-<br>
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-  
-### If you appreciate resources please consider supporting me. Thank you!
-<a href="https://www.buymeacoffee.com/codestation" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 </div>
 
 
