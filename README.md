@@ -56,7 +56,7 @@
 **Frontend:** `HTML`, `CSS`, `JavaScript`, `React`, `Next.JS`, `Angular`  
 **Backend:** `Node.js`, `Express`, `MongoDB`, `Postman`  
 **Design:** `Figma`, `Canva`  
-**Tools:** `Git`, `VSCode`, `Notion`, `ChatGPT`  
+**Tools:** `Git`, `VSCode`, `Notion`
 
 </details>
 
