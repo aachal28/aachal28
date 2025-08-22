@@ -2,7 +2,7 @@
 <br>
 
 **Connect with Me:**  
-[Portfolio](https://aachalpardeshi.tech) | [LinkedIn](https://linkedin.com/in/aachal-pardeshi-258257225) | [Instagram](https://www.instagram.com/code_station_/) | [Twitter](https://twitter.com/aachal28) | [YouTube](https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1) | [Website](https://thecodestation.in)
+[Portfolio](https://aachalpardeshi.tech) | [LinkedIn](https://linkedin.com/in/aachal-pardeshi-258257225) | [Instagram](https://www.instagram.com/thecodestation_/) | [Twitter](https://twitter.com/aachal28) | [YouTube](https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1) | [Website](https://thecodestation.in)
 | [Contact me](https://topmate.io/aachal28")
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,7 +22,7 @@
   <details>
    <summary>Content Creation 🎥</summary>
     
-  - Making short-form content on programming on [Instagram](https://www.instagram.com/code_station_/).
+  - Making short-form content on programming on [Instagram](https://www.instagram.com/thecodestation_/).
   - Join me on LinkedIn to see my daily posts.
   </details>  
   
