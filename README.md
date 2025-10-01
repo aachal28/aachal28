@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Aachal](https://aachalpardeshi.tech), a Developer, Designer, and Content Creator.
+# Hi 👋, I'm [Aachal], a Developer, Designer, and Content Creator.
 <br>
 
 **Connect with Me:**  
