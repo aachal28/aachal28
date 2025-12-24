@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Aachal], a Developer, Designer, and Content Creator.
+# Hi 👋, I'm Aachal, a Developer, Designer, and Content Creator.
 <br>
 
 **Connect with Me:**  
@@ -81,8 +81,3 @@
 - Subscribe to my [YouTube Channel](https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1).
 - You can Star ⭐ the repositories you like.
 - You can react ❤️ to my [LinkedIn](https://www.linkedin.com/in/aachalpardeshi/) posts.
-
-## GitHub Stats 📊
-
-| ![Aachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aachal28&theme=white&show_icons=true)  | ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aachal28&background=ffffff&hide_border=true) |
-| ------------- | ------------- |
